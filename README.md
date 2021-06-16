@@ -10,7 +10,10 @@ The aim of these case studies is to facilitate the participants in getting hands
 **Data Science Lifecycle** 
 The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model with six phases that naturally describes the data science life cycle. 
 
-https://www.datascience-pm.com/wp-content/uploads/2021/02/CRISP-DM.png![image](https://user-images.githubusercontent.com/42402451/122265875-791b7600-ced9-11eb-9338-47d0a90b1942.png)
+https://www.datascience-pm.com/wp-content/uploads/2021/02/CRISP-DM.png![image]
+(https://user-images.githubusercontent.com/42402451/122266056-ac5e0500-ced9-11eb-8a7e-dda2e5c82079.png)
+
+
 _**Source**_ CRISP DM
 
 
