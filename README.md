@@ -1,7 +1,5 @@
 # Data Science Workshop We Hub - MathWorks 
-## COHORT I Case Studies
-
-**A selection of case studies **
+## COHORT 1 Case Studies
 
 This repository was developed as part of the Data Science Workshop jointly organised by WE Hub and MathWorks to disseminate knowledge among school children on the  application of data science in varied sectors including but not limited to Healthcare, Climate Change, Human Rights, Agriculture and Food Security.
 
