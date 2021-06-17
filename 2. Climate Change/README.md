@@ -1,13 +1,11 @@
 
 # CLIMATE CHANGE CASE STUDY
 
-Following Kaggle's Getting Started Prediction Competition, the goal for this discover project is to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable.
+Air Quality - relevance and importance
 
-The performance metric for your prediction model is the Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price. (Taking logs means that errors in predicting expensive houses and cheap houses will affect the result equally.)
+The dataset contains air quality data and AQI (Air Quality Index) at hourly and daily level of various stations across multiple cities in India. The following cities are covered - Ahmedabad, Aizawl, Amaravati, Amritsar, Bengaluru, Bhopal, Brajrajnagar, Chandigarh, Chennai, Coimbatore, Delhi, Ernakulam, Gurugram, Guwahati, Hyderabad, Jaipur, Jorapokhar, Kochi, Kolkata, Lucknow, Mumbai, Patna, Shillong, Talcher, Thiruvananthapuram, Visakhapatnam.
 
-Looking at the public leaderboard, the top 2% have RMSLE of 0.00044, whilst 25th-percentile and and median performance is at 0.125 and 0.14, respectively.
-
-As an extra challenge, you can try to trade-off the number of predictors (less is better) vs. performance. Can you make the top 10% (RMSLE 0.123) with the least number of predictors?
+"The data has been made publicly available by the Central Pollution Control Board: https://cpcb.nic.in/ which is the official portal of Government of India. They also have a real-time monitoring app: https://app.cpcbccr.com/AQI_India/"
 
 ## POTENTIAL EXERCISES
 
