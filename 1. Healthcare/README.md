@@ -1,4 +1,3 @@
-
 # HEALTHCARE CASE STUDY
 
 Following Kaggle's Getting Started Prediction Competition, the goal for this discover project is to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable.
