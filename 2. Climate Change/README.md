@@ -14,3 +14,11 @@ As an extra challenge, you can try to trade-off the number of predictors (less i
 ### Question 1
 ### Question 2
 ### Question 3
+
+## REFERENCES/EXAMPLE PYTHON SCRIPTS
+
+https://www.kaggle.com/anshuls235/studying-india-s-aqi
+https://www.kaggle.com/parulpandey/breathe-india-covid-19-effect-on-pollution
+https://www.kaggle.com/parulpandey/a-guide-to-handling-missing-values-in-python
+https://www.kaggle.com/thedatabeast/where-to-invest-to-combat-air-pollution-in-india
+https://www.kaggle.com/rohanrao/calculating-aqi-air-quality-index-tutorial
