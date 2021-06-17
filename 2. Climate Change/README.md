@@ -7,11 +7,11 @@ The dataset contains air quality data and AQI (Air Quality Index) at hourly and 
 
 "The data has been made publicly available by the Central Pollution Control Board: https://cpcb.nic.in/ which is the official portal of Government of India. They also have a real-time monitoring app: https://app.cpcbccr.com/AQI_India/"
 
-## POTENTIAL EXERCISES
+## POTENTIAL QUESTIONS TO EXPLORE
 
-### Question 1
-### Question 2
-### Question 3
+* Which are the cities that have seen huge changes in pollution levels and why? (time series)
+* Which are the Pollution hotspots in India and have they changed over time? (Spatial and Temporal)
+* Has COVID-19 impacted the air pollution in certain cities and by how much?
 
 ## REFERENCES/EXAMPLE PYTHON SCRIPTS
 
